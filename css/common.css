@@ -1,0 +1,66 @@
+/* Common CSS */
+
+/* Reseteo de formato */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+/* Cambiar Fuente */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Tamaño Banner */
+header img{
+    width: 100%;
+}
+
+/* Navegador */
+nav{
+    margin-top: 15px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+nav a{
+    color: black;
+    background-color: white;
+    border: solid 1px black;
+    border-radius: 5px;
+    box-shadow: 1px 2px 0px black;
+    padding: 3px;
+}
+
+#flota a:hover{
+    border: solid 3px #666;
+    background: rgb(243, 243, 21);
+    width: 10%;
+    height: 3vh;
+    box-shadow: 0px 0px 5px black;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    padding: 3px;
+    text-align: center;
+}
+
+/* Caja de texto */
+
+main{
+    text-align: justify;
+}
+
+/* Footer y su contenido */
+footer{
+    margin-top: 15px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.redes img{
+    width: 2%;
+}

@@ -1,0 +1,80 @@
+/* Videos CSS */
+
+@font-face {
+    font-family: 'Coolvetica';
+    src: url(../font/coolvetica_rg.otf);
+}
+
+h1{
+    font-family: 'Coolvetica';  
+    font-size: 50px;
+    font-weight: 400;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+
+h3{
+    font-family: 'Coolvetica';
+    font-size: 30px;
+    font-weight: 400;
+    margin-bottom: 5px;
+}
+
+.contenedor1{
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    padding: 60px;
+    background: rgb(244, 244, 101);;
+    margin-top: 25px;
+    border-top: 10px solid #ffbb00;
+    min-height: 25vh;
+    box-shadow: 10px;
+}
+
+.contenedor1 video{
+    margin-top: 15px;
+    margin-left: 175px;
+    margin-bottom: 15px;
+}
+
+p{
+    text-align: center;
+}
+
+.contenedor2{
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    padding: 60px;
+    background: rgb(244, 244, 101);;
+    margin-top: 25px;
+    border-top: 10px solid #ffbb00;
+    min-height: 25vh;
+    box-shadow: 10px;
+}
+
+.contenedor2 iframe{
+    margin-top: 15px;
+    margin-left: 175px;
+    margin-bottom: 15px;
+}
+
+.contenedor3{
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    padding: 60px;
+    background: rgb(244, 244, 101);;
+    margin-top: 25px;
+    border-top: 10px solid #ffbb00;
+    min-height: 25vh;
+    box-shadow: 10px;
+}
+
+.contenedor3 iframe{
+    margin-top: 15px;
+    margin-left: 175px;
+    margin-bottom: 15px;
+}

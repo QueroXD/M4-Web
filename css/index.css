@@ -1,0 +1,42 @@
+/* Index CSS */
+@font-face {
+    font-family: 'Coolvetica';
+    src: url(../font/coolvetica_rg.otf);
+}
+
+.contenedor{
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    padding: 60px;
+    background: rgb(244, 244, 101);;
+    margin-top: 25px;
+    border-top: 6px solid #ffbb00;
+    min-height: 65vh;
+    box-shadow: 10px;
+}
+
+.titulo{
+    font-size: 40px;
+    margin-bottom: 60px;
+}
+
+.sub-titulo{
+    font-family: 'Coolvetica';
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.contenedor img{
+    width: 300px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.contenedor p{
+    font-size: 18px;
+    font-weight: 300;
+    margin-top: 20px;
+
+}

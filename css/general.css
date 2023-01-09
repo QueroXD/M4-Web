@@ -1,0 +1,64 @@
+/* General CSS */
+@font-face {
+    font-family: 'Coolvetica';
+    src: url(../font/coolvetica_rg.otf);
+}
+
+.contenedor1{
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    padding: 60px;
+    background: rgb(244, 244, 101);;
+    margin-top: 25px;
+    border-top: 10px solid #ffbb00;
+    min-height: 25vh;
+    box-shadow: 10px;
+}
+
+#espacio{
+    margin: 10px;
+}
+
+.contenedor2{
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    padding: 60px;
+    background: rgb(244, 244, 101);;
+    margin-top: 25px;
+    border-top: 10px solid #ffbb00;
+    min-height: 25vh;
+    box-shadow: 10px;
+}
+
+.imagen1{
+    background: url(../img/HIMYM_Bar.webp);
+    width: 460px;
+    height: 260px;
+    margin-top: 15px;
+    margin-left: 280px;
+    box-shadow: 20px 20px 10px;
+}
+
+.imagen2{
+    background: url(../img/HIMYM_Reparto.webp);
+    width: 460px;
+    height: 260px;
+    margin-top: 15px;
+    box-shadow: 20px 20px 10px;
+    margin-left: 280px;
+}
+
+.contenedor p{
+    font-size: 18px;
+    font-weight: 300;
+    margin-top: 20px;
+}
+
+h3{
+    font-family: 'Coolvetica';
+    font-size: 30px;
+    font-weight: 400;
+    margin-bottom: 5px;
+}
